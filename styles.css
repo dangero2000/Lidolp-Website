@@ -1,0 +1,23 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header, footer {
+  background-color: #f8f8f8;
+  text-align: center;
+  padding: 1em;
+}
+
+main {
+  padding: 2em;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
