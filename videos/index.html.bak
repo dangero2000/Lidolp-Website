@@ -32,7 +32,8 @@
     <!-- Embed a live video stream (this will need to be replaced or configured based on your streaming service) -->
     <section id="live-stream">
       <h2>Live Stream:</h2>
-      <iframe src="https://restreamer.lidolp.net/f63a7561-e906-4b43-bc4e-9506f86305fa.html" width="640" height="360" frameborder="no" scrolling="no" allowfullscreen="true"></iframe>
+      <p>Embed your live stream here.</p>
+      <!-- Example: <iframe src="http://service.com/live/yourstream"></iframe> -->
     </section>
   </main>
   
