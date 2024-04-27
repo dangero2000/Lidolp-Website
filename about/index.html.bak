@@ -13,55 +13,55 @@
 		<h1>About Me</h1>
 		<p>Hi. My name is Garrett Brown, but I go by Dan Gero online. My favorite hobbies are:</p>
 			<ul>
-				<li><button type="button" class="collapsible">
-				music production;</button>
+				<li type="button" class="collapsible">
+				music production;
 					<div class="content">
 					<p>To be filled in later.</p>
 				</div>
 			</li>
-				<li><button type="button" class="collapsible">
-				vocal synth production;</button>
+				<li type="button" class="collapsible">
+				vocal synth production;
 					<div class="content">
 					<p>To be filled in later.</p>
 				</div>
 			</li>
-				<li><button type="button" class="collapsible">
-				writing;</button>
+				<li type="button" class="collapsible">
+				writing;
 					<div class="content">
 					<p>To be filled in later.</p>
 				</div>
 			</li>
-				<li><button type="button" class="collapsible">
-				voice acting;</button>
+				<li type="button" class="collapsible">
+				voice acting;
 					<div class="content">
 					<p>To be filled in later.</p>
 				</div>
 			</li>
-				<li><button type="button" class="collapsible">
-				audio editing;</button>
+				<li type="button" class="collapsible">
+				audio editing;
 					<div class="content">
 					<p>To be filled in later.</p>
 				</div>
 			</li>
-				<li><button type="button" class="collapsible">
-				learning Japanese;</button>
+				<li type="button" class="collapsible">
+				learning Japanese;
 					<div class="content">
 					<p>To be filled in later.</p>
 				</div>
 			</li>
-				<li><button type="button" class="collapsible">
-				messing with AI;</button>
+				<li type="button" class="collapsible">
+				messing with AI;
 					<div class="content">
 					<p>To be filled in later.</p>
 				</div>
 			</li>
-				<li><button type="button" class="collapsible">
-				wasting time talking to friends and browsing social media;</button>
+				<li type="button" class="collapsible">
+				wasting time talking to friends and browsing social media;
 					<div class="content">
 					<p>To be filled in later.</p>
 				</div>
 			</li>
-				<li><button type="button" class="collapsible">
+				<li type="button" class="collapsible">
 				long walks on the beach.
 					<div class="content">
 					<p>Actually, this last one is a joke. I have a weakness to heat, and walking for a prolonged period of time tires me out. 🙂</p>
