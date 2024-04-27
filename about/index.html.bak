@@ -11,41 +11,11 @@
   
   <main>
     <h1>About Me</h1>
-    <p>Hi. My name is Garrett Brown, but I go by Dan Gero online. My favorite hobbies are:</p>
-	<ul>
-    <li type="button" class="collapsible">music production</li>
-    <div class="content">
-        <p>To be filled in later.</p>
-    </div>
-    <li type="button" class="collapsible">vocal synth production</li>
-    <div class="content">
-        <p>To be filled in later.</p>
-    <li type="button" class="collapsible">writing</li>
-    <div class="content">
-        <p>To be filled in later.</p>
-    <li type="button" class="collapsible">voice acting</li>
-    <div class="content">
-        <p>To be filled in later.</p>
-    <li type="button" class="collapsible">audio editing</li>
-    <div class="content">
-        <p>To be filled in later.</p>
-    <li type="button" class="collapsible">learning Japanese</li>
-    <div class="content">
-        <p>To be filled in later.</p>
-    <li type="button" class="collapsible">messing with AI</li>
-    <div class="content">
-        <p>To be filled in later.</p>
-    <li type="button" class="collapsible">wasting time talking to friends and browsing social media</li>
-    <div class="content">
-        <p>To be filled in later.</p>
-    <li type="button" class="collapsible">long walks on the beach.</li>
-    <div class="content">
-        <p>Actually, this last one is a joke. I have a weakness to heat, and walking for a prolonged period of time tires me out. 🙂</p>
-    </div>
+    <p>Hi. My name is Garrett Brown, but I go by Dan Gero online. My favorite hobbies are music production, vocal synth production, writing, voice acting, audio editing, learning Japanese, messing with AI, wasting time talking to friends and browsing social media, and long walks on the beach. Actually, that last one was a joke. I have a weakness to heat, and walking for a prolonged period of time tires me out. 🙂</p>
     <p>Something that seems to surprise a lot of people about me is the fact that I am blind. Technically I would be refered to by most people as visually impaired, because I can see lights and shadows. However, since that is all I can see, the vision I do have is mostly useless. Because of that, I call myself blind.</p>
     <p>The reason people are surprized is because, even in 2024, a lot of them still don't know that blind people are capable of using technology of any kind. Alass, I absolutely can. I can do almost everything sighted people can do, thanks to a nifty invention called a screen reader. And the fact is, I'm nobody special. Thousands of blind people do most of the things I do every single day.</p>
     <p>Unfortunately, not everything is a walk in the park for us. You see, developers have to put in the effort to make their application accessible to screen readers. A lot of developers do put in the effort, or they use certain libraries in their applications that take care of the screen reader accessibility part for them. There are a lot of developers, however, who don't make their programs accessible for us. This is usually because, A, the developer works for a company that doesn't really care about us, or B, because they are an indi developer who don't know how to do it. Case in point, I use a program called <a href=https://en.wikipedia.org/wiki/Vocaloid">Vocaloid</a>. This program is not fully usable with screen readers, so I've had to find inventive ways around the problem. I could name a few more examples, but seeing as this page is about me, I'll save those examples for another place.</p>
-    <p>To be finished later.</p>
+    <p>
   </main>
   
   <div id="footer-placeholder"></div>
